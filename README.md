@@ -170,6 +170,6 @@ llms.txt는 AI(SB Studio 포함)가 이 사이트를 참조할 때 읽는 인덱
 
 ## 참고
 
-- Vercel 프로젝트: `governance` (team: PlusX_NOVA_SB_Platform)  
+- Vercel 프로젝트: `nova-governance` (team: PlusX_NOVA_SB_Platform)  
 - TK 원본 자료 위치: `TK/` 폴더 (Confluence 저장 HTML)  
 - 구 초안 자료 위치: `UXP/old/`, `VOT/old/`, `SDG/old/`
