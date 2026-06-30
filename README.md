@@ -1,7 +1,7 @@
 # SKT CX Governance Hub
 
 SKT Next Channel UX 거버넌스 문서 사이트.  
-배포 주소: **https://governance-xi.vercel.app**
+배포 주소: **https://nova-governance.vercel.app**
 
 ---
 
@@ -33,7 +33,7 @@ governance/
 
 ### 저장소 처음 받기
 ```bash
-git clone https://github.com/sunnyhill333-dotcom/governance.git
+git clone https://github.com/ujeanjeon/governance.git
 cd governance
 ```
 
@@ -44,7 +44,7 @@ git commit -m "VOT 컴포넌트 규칙 추가"
 git push
 ```
 
-push 후 1~2분 내에 **https://governance-xi.vercel.app** 자동 반영됩니다.  
+push 후 1~2분 내에 **https://nova-governance.vercel.app** 자동 반영됩니다.  
 Vercel 계정·CLI 설치 불필요.
 
 ---
@@ -170,6 +170,6 @@ llms.txt는 AI(SB Studio 포함)가 이 사이트를 참조할 때 읽는 인덱
 
 ## 참고
 
-- Vercel 프로젝트: `governance` (team: SKT Next)  
+- Vercel 프로젝트: `governance` (team: PlusX_NOVA_SB_Platform)  
 - TK 원본 자료 위치: `TK/` 폴더 (Confluence 저장 HTML)  
 - 구 초안 자료 위치: `UXP/old/`, `VOT/old/`, `SDG/old/`
